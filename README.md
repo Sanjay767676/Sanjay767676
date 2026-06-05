@@ -306,9 +306,9 @@ Design
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanjay767676&theme=github_dark&utcOffset=5.5" height="175" />
 <br/><br/>
 
-<!-- Streak Stats — herokuapp -->
+<!-- Streak Stats (switched to demolab service for reliability) -->
 <a href="https://github.com/Sanjay767676">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay767676&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Sanjay767676&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 </a>
 <br/><br/>
 
@@ -316,8 +316,8 @@ Design
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay767676&theme=github-compact&hide_border=true&area=true&area_color=58a6ff&color=58a6ff&line=58a6ff&point=ffffff" width="95%" alt="Contribution Activity Graph"/>
 <br/><br/>
 
-<!-- GitHub Trophies — ryo-ma's service, separate from rate-limited github-readme-stats -->
-<img src="https://github-profile-trophy.vercel.app/?username=Sanjay767676&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=8" width="92%" alt="GitHub Trophies"/>
+<!-- GitHub Trophies removed (third-party service unreliable) -->
+<!-- To restore trophies, use a different provider or host a generated image in the repo/output branch -->
 <br/><br/>
 
 <!-- Snake Contribution Animation — runs after GitHub Actions workflow is set up -->
