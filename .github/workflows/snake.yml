@@ -11,18 +11,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate light SVG
+      - name: Generate SVGs
         uses: Platane/snk/svg-only@v3
         with:
-          username: Sanjay767676
-          output: dist/github-contribution-grid-snake.svg
-
-      - name: Generate dark SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          username: Sanjay767676
-          palette: github-dark
-          output: dist/github-contribution-grid-snake-dark.svg
+          github_user_name: Sanjay767676
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Deploy dist to output branch
         uses: crazy-max/ghaction-github-pages@v3
