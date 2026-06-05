@@ -1,21 +1,16 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanjay%20K&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
 <br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+at+scale.;AI+%2B+Cloud+%2B+Full+Stack+%E2%80%94+End+to+End.;From+ideas+to+deployed+production+apps.;Open+to+SWE%2C+AI%2C+and+Cloud+Engineering+roles." alt="Typing Animation" />
-
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Sanjay767676&color=0d1117&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Sanjay767676)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Sanjay767676-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjay767676)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjay%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-k-sana)&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-Sanjay7676-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sanjay7676)&nbsp;
-[![Email](https://img.shields.io/badge/Email-ksanjuma1234%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksanjuma1234@gmail.com)
+[](https://github.com/Sanjay767676) 
+[](https://github.com/Sanjay767676) 
+[](https://linkedin.com/in/sanjay-k-sana) 
+[](https://leetcode.com/u/Sanjay7676) 
+[](mailto:ksanjuma1234@gmail.com)
 
 </div>
-
 <br/>
 
 ---
@@ -37,50 +32,53 @@ Currently seeking roles in **Software Engineering**, **AI/ML Engineering**, **Cl
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
 **MERN Stack Developer**
-`Synovers` &nbsp;|&nbsp; Nov 2025 – Dec 2025
+`Synovers`  |  Nov 2025 – Dec 2025
 
 - Leveraged AI-assisted development tooling to design and implement scalable web application features
+
 - Worked within Agile sprint cycles, contributing to daily standups and retrospectives
+
 - Collaborated cross-functionally on architecture planning and feature delivery
 
 </td>
 <td width="50%" valign="top">
-
 **AI & Cloud Intern**
-`IBM – Edunet Foundation` &nbsp;|&nbsp; Jul 2025 – Aug 2025
+`IBM – Edunet Foundation`  |  Jul 2025 – Aug 2025
 
 - Built and trained machine learning models using **IBM Watson AI Studio** on custom datasets
+
 - Deployed AI models via IBM Cloud services with production-ready configurations
+
 - Coordinated with 20+ team members across the full project lifecycle
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
 **Data Visualization Intern**
-`Excelerate` &nbsp;|&nbsp; Jul 2025 – Aug 2025
+`Excelerate`  |  Jul 2025 – Aug 2025
 
 - Developed interactive dashboards and analytical reports using **Excel** and **Power BI**
+
 - Cleaned, transformed, and structured raw datasets to ensure reporting accuracy
+
 - Translated stakeholder requirements into actionable, visual data narratives
 
 </td>
 <td width="50%" valign="top">
-
 **AWS Intern**
-`Techsnapie Solutions` &nbsp;|&nbsp; Aug 2024 – Sep 2024
+`Techsnapie Solutions`  |  Aug 2024 – Sep 2024
 
 - Managed **EC2 instances** with auto-scaling and load balancing for high-availability workloads
+
 - Implemented **S3** storage solutions with optimized data accessibility and durability policies
+
 - Developed **RESTful APIs** via API Gateway to streamline inter-application communication
 
 </td>
 </tr>
 </table>
-
 <br/>
 
 ---
@@ -88,7 +86,6 @@ Currently seeking roles in **Software Engineering**, **AI/ML Engineering**, **Cl
 ## Tech Stack
 
 <div align="center">
-
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -147,7 +144,6 @@ Currently seeking roles in **Software Engineering**, **AI/ML Engineering**, **Cl
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
-
 <br/>
 
 ---
@@ -165,15 +161,20 @@ A production-grade full-stack event management system built for college-scale op
 **Stack:** `Node.js` `Express.js` `React` `MongoDB` `Google Sheets API`
 
 **Key Features:**
+
 - Payment verification pipeline with automated confirmation workflows
+
 - QR-based attendance tracking with real-time validation
+
 - Automated email notification engine for registrations and updates
+
 - PDF generation and QR code services integrated into the backend
+
 - Rate-limited, cached REST API with secure data processing pipelines
 
 **Impact:** Eliminates manual overhead by automating the full event lifecycle — from registration to attendance.
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjay767676)
+[](https://github.com/Sanjay767676)
 
 </td>
 <td width="50%" valign="top">
@@ -185,15 +186,20 @@ A full-stack AI platform that makes government welfare schemes accessible to cit
 **Stack:** `React` `Express.js` `PostgreSQL` `Google Gemini` `OpenAI` `Vercel`
 
 **Key Features:**
+
 - Multi-model AI support — Google Gemini and OpenAI for language understanding
+
 - Document processing pipeline for scheme extraction and summarization
+
 - Real-time communication with WebSocket integration
+
 - Secure JWT-based authentication with role-based access
+
 - Deployed on Vercel with a scalable, responsive UI
 
 **Impact:** Bridges the information gap between citizens and government welfare programs through AI.
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjay767676)
+[](https://github.com/Sanjay767676)
 
 </td>
 </tr>
@@ -207,15 +213,20 @@ A real-time women safety web application with AI-driven distress detection and e
 **Stack:** `React` `Node.js` `MongoDB` `Gemini AI` `Twilio` `GPS API`
 
 **Key Features:**
+
 - AI-based distress detection using Gemini AI for context-aware threat identification
+
 - Automated SOS alerts via Twilio SMS to registered emergency contacts
+
 - Live GPS tracking for real-time location sharing during emergencies
+
 - Secure user authentication with JWT-based session management
+
 - Real-time safety monitoring dashboard
 
 **Impact:** Proactive personal safety combining AI intelligence with emergency communication infrastructure.
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjay767676)
+[](https://github.com/Sanjay767676)
 
 </td>
 <td width="50%" valign="top">
@@ -227,20 +238,24 @@ An intelligent home security system combining real-time object detection with id
 **Stack:** `Python` `YOLOv8` `OpenCV` `Face Recognition` `Twilio`
 
 **Key Features:**
+
 - Real-time intruder detection using **YOLOv8** with custom ROI configuration
+
 - Face recognition module to classify known vs. unknown individuals
+
 - Local buzzer alert triggered on unauthorized access detection
+
 - Cloud-based remote notifications via **Twilio** SMS for off-site monitoring
+
 - Optimized inference pipeline for low-latency edge deployment
 
 **Impact:** End-to-end autonomous security system with multi-channel alerting and edge AI deployment.
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjay767676)
+[](https://github.com/Sanjay767676)
 
 </td>
 </tr>
 </table>
-
 <br/>
 
 ---
@@ -249,16 +264,31 @@ An intelligent home security system combining real-time object detection with id
 
 <div align="center">
 
-| Certification | Issuer | Domain |
-|:---|:---|:---|
-| Data Analytics Job Simulation | Deloitte Australia — Forage | Data Analytics |
-| Solutions Architecture Job Simulation | AWS APAC — Forage | Cloud Architecture |
-| Python & Django Framework for Beginners | Udemy | Backend Development |
-| DBMS, OS, DSA, Python, Java, Cloud Computing | PrepInsta | Core CS Fundamentals |
-| Graphic Design Essentials | Canva | Design |
+Certification
+Issuer
+Domain
+
+Data Analytics Job Simulation
+Deloitte Australia — Forage
+Data Analytics
+
+Solutions Architecture Job Simulation
+AWS APAC — Forage
+Cloud Architecture
+
+Python & Django Framework for Beginners
+Udemy
+Backend Development
+
+DBMS, OS, DSA, Python, Cloud Computing
+PrepInsta
+Core CS Fundamentals
+
+Graphic Design Essentials
+Canva
+Design
 
 </div>
-
 <br/>
 
 ---
@@ -266,33 +296,41 @@ An intelligent home security system combining real-time object detection with id
 ## GitHub Analytics
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sanjay767676&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay767676&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
+<!-- Stats + Languages — github-profile-summary-cards is a separate service from github-readme-stats, independent rate limit -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanjay767676&theme=github_dark" height="175" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanjay767676&theme=github_dark" height="175" />
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Sanjay767676&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
+<!-- Productive Time + Repos Per Language — extra detail cards from the same service -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanjay767676&theme=github_dark" height="175" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanjay767676&theme=github_dark&utcOffset=5.5" height="175" />
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay767676&theme=github-compact&hide_border=true&area=true&area_color=58a6ff&color=58a6ff&line=58a6ff&point=ffffff" width="95%" alt="Activity Graph"/>
-
+<!-- Streak Stats — herokuapp -->
+<a href="https://github.com/Sanjay767676">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay767676&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+</a>
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sanjay767676&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" width="95%" alt="Trophies"/>
-
+<!-- Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay767676&theme=github-compact&hide_border=true&area=true&area_color=58a6ff&color=58a6ff&line=58a6ff&point=ffffff" width="95%" alt="Contribution Activity Graph"/>
 <br/><br/>
 
+<!-- GitHub Trophies — ryo-ma's service, separate from rate-limited github-readme-stats -->
+<img src="https://github-profile-trophy.vercel.app/?username=Sanjay767676&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=8" width="92%" alt="GitHub Trophies"/>
+<br/><br/>
+
+<!-- Snake Contribution Animation — runs after GitHub Actions workflow is set up -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjay767676/Sanjay767676/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanjay767676/Sanjay767676/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sanjay767676/Sanjay767676/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Sanjay767676/Sanjay767676/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Sanjay767676/Sanjay767676/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/Sanjay767676/Sanjay767676/output/github-contribution-grid-snake-dark.svg"
+    width="95%"/>
 </picture>
-
 </div>
-
 <br/>
 
 ---
@@ -302,9 +340,13 @@ An intelligent home security system combining real-time object detection with id
 I actively look for opportunities in the following domains:
 
 - **AI & Machine Learning** — LLM integrations, RAG pipelines, computer vision systems, model deployment
+
 - **Cloud Engineering** — AWS-native architectures, serverless solutions, cloud-native backend systems
+
 - **Full Stack Development** — MERN stack applications, API design, real-time systems
+
 - **Computer Vision** — object detection, face recognition, edge AI deployment
+
 - **Open Source** — contributing to AI tooling, developer utilities, and impactful community projects
 
 If you are building something in any of these areas, let's connect.
@@ -314,20 +356,19 @@ If you are building something in any of these areas, let's connect.
 ---
 
 <div align="center">
-
 **Connect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-k-sana)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjay767676)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sanjay7676)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksanjuma1234@gmail.com)
+[](https://linkedin.com/in/sanjay-k-sana)
+[](https://github.com/Sanjay767676)
+[](https://leetcode.com/u/Sanjay7676)
+[](mailto:ksanjuma1234@gmail.com)
 
 <br/>
 
+> 
 > *"Build systems that matter. Ship code that lasts."*
+> 
 
 <br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" width="100%"/>
-
 </div>
