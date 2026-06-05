@@ -316,9 +316,8 @@ Design
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay767676&theme=github-compact&hide_border=true&area=true&area_color=58a6ff&color=58a6ff&line=58a6ff&point=ffffff" width="95%" alt="Contribution Activity Graph"/>
 <br/><br/>
 
-<!-- GitHub Trophies — local static image to avoid third-party failures -->
-<img src="output/github-trophies.svg" width="92%" alt="GitHub Trophies"/>
-<br/><br/>
+<!-- GitHub Trophies removed per request -->
+<br/>
 
 <!-- Snake Contribution Animation — runs after GitHub Actions workflow is set up -->
 <picture>
